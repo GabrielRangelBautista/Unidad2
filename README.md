@@ -2,6 +2,33 @@
 Unidada 2 de informatica de Gabriel Rangel
 
 practica 2.1
+BIT: Es la mínima pulsación electrónica que recibe una computadora (bit, binary digit: dígito binario); es decir, es la mínima cantidad de información (datos) que recibe una computadora y puede ser ya sea 0 o 1 y representa el estado de un dispositivo que puede tomar uno de dos estados. Un foco puede estar apagado o encendido.
+
+BYTE Y UNIDADES DERIVADAS: Es la agrupación de 8 bits, un patrón con una longitud de 8 bits se llama byte. Este término también se ha utilizado para medir el tamaño de la memoria o de otros dispositivos de almacenamiento y se abrevia con la letra “B”.
+
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/bytes.jpg" alt="bytes" width="100%"/>
+
+DATO: Se refiere a una representación simbólica o numérica de información. Los datos pueden ser cualquier tipo de información que se almacena y procesa en una computadora, como números texto, imágenes, sonidos, etc.
+
+TIPOS DE DATOS: Audio, Imágen, Números, Texto, Video, etc.
+
+DATO NUMÉRICO: Los programas utilizados en arquitectura o en ingeniería que procesa una computadora son de tipo numérico, aritmético, algebraico o trigonométrico; por ejemplo, es posible la resolución de raíces en una ecuación
+
+DATO ALFANUMÉRICO (CARACTER O TEXTO): En este tipo de datos se utilizan programas de procesamiento de palabras o texto, que nos permiten corregir, borrar, justificar, mover, eliminar párrafos completos o sólo parte de ellos, corregir ortografía, etcétera
+
+ARCHIVO: Un archivo, en informática, es una unidad de almacenamiento de datos que contiene información digital, como texto, imágenes, programas, documentos, hojas de cálculo, música, video, etc. Los archivos son utilizados para organizar y almacenar datos en dispositivos de almacenamiento, como discos duros, unidades flash, CD-ROM, DVD y otros medios de almacenamiento digital
+
+SISTEMAS N8UMÉRICOS E INFORMACIÓN: El concepto de número y el proceso de desarrollo del conteo han sido históricamente registrados a lo largo del tiempo; sin embargo, sólo es posible identificar sus inicios por medio de amplias conjeturas.
+
+SISTEMA DECIMAL: Este es el sistema numérico que usamos en la vida cotidiana. Está basado en la base 10, lo que significa que utiliza diez símbolos diferentes (0 al 9) para representar todos los números
+
+SISTEMA BINARIO: El sistema binario se utiliza en informática y electrónica. Está basado en la base 2, lo que significa que utiliza solo dos símbolos (0 y 1) para representar números. Cada dígito en el sistema binario se llama "bit" (abreviatura de "binary digit")
+
+SISTEMA HEXADECIMAL: El sistema hexadecimal está basado en la base 16 y utiliza los dígitos del 0 al 9 y las letras A a F para representar números. 
+
+SISTEMA BASE-N: Además de los mencionados anteriormente, existen sistemas numéricos en base-n, donde "n" es cualquier número entero. Estos sistemas utilizan "n" símbolos diferentes para representar números
+
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/mapa.png" alt="mapa" width="100%"/>
 
 practica 2.2
 [![Alt text](https://img.youtube.com/vi/eaN2ZHTQZiL3uPic/0.jpg)](https://youtu.be/gfYx9JnAdNo?si=eaN2ZHTQZiL3uPic)
@@ -12,5 +39,57 @@ practica 2.3
 
 
 practica 2.4
+
+Número de lista: 16, correspondiente a los algoritmos 30 y 39
+
+Algoritmo 30
+Algoritmo par_impar
+	
+//DESCRIPCCION: Implementar un programa que sume todos los números pares entre 2 y n. El valor de n se medirá al principio.
+definir n Como Entero;
+	Escribir "Por favor ingrese un número";
+	
+	//INICIO
+	Leer n;
+	
+	Para i= 2 Hasta n Hacer;
+		
+		Si i%2=0 Entonces
+			suma = suma +1;
+		Fin Si
+		
+	Fin Para
+
+	Escribir "La suma es" suma;
+	
+FinAlgoritmo
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/30.png" alt="30" width="100%"/>
+
+Algoritmo 39
+ALGORITMO Reprobados
+//DESCRICCION: Leer 50 calificaciones de un grupo de alumnos. Calcule y escriba el porcentaje de reprobados. Tomando en cuenta que la calificaron mínima aprobatoria es de 70 
+	Definir i Como Entero;
+	definir calf Como Real;
+	
+	p= 0;
+			
+	//INICIO
+	
+	Para i<-1 Hasta i= 50 Hacer;
+		Leer calf;
+		Si (calf<7.0 y cal>0) Entonces
+			p= p+1;
+		SiNo 
+			Escribir "No esta reprobado";
+		Fin Si
+		
+	Fin Para
+	
+	Escribir "Porcentaje de reprobados" p*100/50;;
+			
+				
+			
+FinAlgoritmo
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/39.png" alt="39" width="100%"/>
 
 practica 2.5
