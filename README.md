@@ -93,3 +93,6 @@ FinAlgoritmo
 <img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/39.png" alt="39" width="100%"/>
 
 practica 2.5
+
+[![Alt text](https://img.youtube.com/vi/oKzxlX33-aUIUwnO/0.jpg)](https://youtu.be/HhEyT7De4Ak?si=oKzxlX33-aUIUwnO)
+
