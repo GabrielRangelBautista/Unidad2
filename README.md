@@ -6,7 +6,7 @@ BIT: Es la mínima pulsación electrónica que recibe una computadora (bit, bina
 
 BYTE Y UNIDADES DERIVADAS: Es la agrupación de 8 bits, un patrón con una longitud de 8 bits se llama byte. Este término también se ha utilizado para medir el tamaño de la memoria o de otros dispositivos de almacenamiento y se abrevia con la letra “B”.
 
-<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/bytes.jpg" alt="bytes" width="100%"/>
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/bit.png" alt="bytes" width="100%"/>
 
 DATO: Se refiere a una representación simbólica o numérica de información. Los datos pueden ser cualquier tipo de información que se almacena y procesa en una computadora, como números texto, imágenes, sonidos, etc.
 
