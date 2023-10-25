@@ -46,25 +46,25 @@ Parte 2: Identifique el código para cada carácter de su nombre y primer apelli
 
 Identifique el codigo para cada caracter de su nombre y primer apellido
 
-G A B R I E L 
-U+0067 U+0061 U+0062 U+0072 U+0069 U+0065 U+006C
++ G A B R I E L 
+ + U+0067 U+0061 U+0062 U+0072 U+0069 U+0065 U+006C
 
-R A N G E L 
-U+0072 U+0061 U+006E U+0067 U+0065 U+006C U+000A
++ R A N G E L 
++  U+0072 U+0061 U+006E U+0067 U+0065 U+006C U+000A
 
 Parte 3: Traduzca su nombre a tres tipos de caractares: Cirílico, Chino y Japonés e identyifique el código para cada símbolo y genere su nombre utilizando ese código en LibreOffice.
-Español: 
-Gabriel Rangel
-U+0047 U+0061 U+0062 U+0072 U+0069 U+0065 U+006C U+0020 U+0052 U+0061 U+006E U+0067 U+0065 U+006C
-cirilico:
-Gabriel Rangel: Габриэль Рангель
-U+0413 U+0430 U+0431 U+0440 U+0438 U+044D U+043B U+044C U+0020 U+0420 U+0430 U+043D U+0433 U+0435 U+043B U+044C
-Chino:
-Gabriel Rangel: 加布里埃爾·蘭格爾
-U+52A0 U+5E03 U+91CC U+57C3 U+723E U+00B7 U+862D U+683C U+723E
-Japones:
-Gabriel Rangel: ガブリエル・ランゲル
-U+30AC U+30D6 U+30EA U+30A8 U+30EB U+30FB U+30E9 U+30F3 U+30B2 U+30EB
++ Español: 
+ + Gabriel Rangel
+ + U+0047 U+0061 U+0062 U+0072 U+0069 U+0065 U+006C U+0020 U+0052 U+0061 U+006E U+0067 U+0065 U+006C
++ cirilico:
+ + Gabriel Rangel: Габриэль Рангель
+ + U+0413 U+0430 U+0431 U+0440 U+0438 U+044D U+043B U+044C U+0020 U+0420 U+0430 U+043D U+0433 U+0435 U+043B U+044C
++ Chino:
+ + Gabriel Rangel: 加布里埃爾·蘭格爾
+ + U+52A0 U+5E03 U+91CC U+57C3 U+723E U+00B7 U+862D U+683C U+723E
++ Japones:
+ + Gabriel Rangel: ガブリエル・ランゲル
+ + U+30AC U+30D6 U+30EA U+30A8 U+30EB U+30FB U+30E9 U+30F3 U+30B2 U+30EB
 
 | 😂 | 💀 | 😱 | 😎 | 😘 | 🍔 | ❤️ | ☢ | 🥰 | ✌ |
 | :------------ |:---------------:| :---------------:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
