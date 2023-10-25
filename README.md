@@ -33,8 +33,28 @@ SISTEMA BASE-N: Además de los mencionados anteriormente, existen sistemas numé
 <img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/mapa.png" alt="mapa" width="100%"/>
 
 practica 2.2
+
+Parte 1: Investigue los dos principales sistemas de codificación (ASCII, UTF-8 o Unicode) y haga una tabla comparativa en términos de ventajas y desventajas, métodos de conversión y aplicación de cada uno.
+
+Ventajas y Desventajas
+
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/tabla%20de%20V%20y%20D.png" alt="V y D" width="100%"/>
+
 [![Alt text](https://img.youtube.com/vi/eaN2ZHTQZiL3uPic/0.jpg)](https://youtu.be/gfYx9JnAdNo?si=eaN2ZHTQZiL3uPic)
 
+Parte 2: Identifique el código para cada carácter de su nombre y primer apellido y encuentre una función para generarlos utilizando ese código en LibreOffice portable (guía 1) y pruebe el siguiente convertidor Unicode online).
+
+Identifique el codigo para cada caracter de su nombre y primer apellido
+G A B R I E L 
+U+0067 U+0061 U+0062 U+0072 U+0069 U+0065 U+006C
+
+R A N G E L 
+
+U+0072 U+0061 U+006E U+0067 U+0065 U+006C U+000A
+
+Parte 3: Traduzca su nombre a tres tipos de caractares: Cirílico, Chino y Japonés e identyifique el código para cada símbolo y genere su nombre utilizando ese código en LibreOffice.
+Español:
+Gabriel Rangel: U+0047 U+0061 U+0062 U+0072 U+0069 U+0065 U+006C U+0020 U+0052 U+0061 U+006E U+0067 U+0065 U+006C
 
 practica 2.3
 [![Alt text](https://img.youtube.com/vi/SM5fkbLOeDe0AHx5/0.jpg)](https://youtu.be/PVMEKRpqXCA?si=SM5fkbLOeDe0AHx5)
