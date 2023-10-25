@@ -38,7 +38,7 @@ Parte 1: Investigue los dos principales sistemas de codificación (ASCII, UTF-8 
 
 Ventajas y Desventajas
 
-<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/tabla%20de%20V%20y%20D.png" alt="V y D" width="100%"/>
+<img src="https://github.com/GabrielRangelBautista/imagenes/blob/main/BIT.jpg" alt="V y D" width="100%"/>
 
 [![Alt text](https://img.youtube.com/vi/eaN2ZHTQZiL3uPic/0.jpg)](https://youtu.be/gfYx9JnAdNo?si=eaN2ZHTQZiL3uPic)
 
